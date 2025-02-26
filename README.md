@@ -1,2 +1,6 @@
-# Paradise-Game
-Adaptive game with 625 unique worlds and visual effects
+# Paradise Game
+Игра с 625 уникальными мирами, созданными через выбор игрока. Добавлены визуальные эффекты (дождь, птицы и др.).
+
+- Придумал идею адаптивных миров.
+- Использовал Python и Panda3D и Grok3
+- 
